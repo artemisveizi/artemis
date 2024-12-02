@@ -1,4 +1,4 @@
-I'll keep it simple. Here are some of my projects:
+I'm currently working on optimally validating silicon in Apple's Silicon Engineering Group. Here are some of my past projects:
 
 [Towards Machine Learning for Network Optimization: Buffer Sizing via Reinforcement Learning](https://github.com/artemisveizi/artemis/blob/main/Veizi_Artemis_Thesis.pdf) I completed my Princeton Senior Thesis in the ECE Department, under the guidance of Professor Maria Apostolaki in the NetSyn Lab at Princeton. 
 
@@ -8,6 +8,8 @@ Abstract: We present a reinforcement learning algorithm to select optimal buﬀe
 
 [N-Queens Solver](https://github.com/artemisveizi/nqueens-AI) The classic eight queens puzzle, extended to n queens: placing n queens on an n x n chessboard such that no two queens threaten each other.
 
-[Word Ladder Solver](https://github.com/artemisveizi/wordladder-AI) Uses Informed A* Search to find the shortest Levenshtein distance between two words in a given dictionary of valid words.
+[Word Ladder Solver](https://github.com/artemisveizi/wordladder-AI) Uses the Informed A* Search algorithm to find the shortest Levenshtein distance between two words in a given dictionary of valid words.
 
 [Othello Player](https://github.com/artemisveizi/othello-AI) Plays Othello (and will almost certainly beat all humans). Implements alpha-beta pruning to search the solution tree efficiently.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/artemisveizi/) or email me at `aveizi (at) alumni.princeton.edu`.
